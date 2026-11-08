@@ -1,0 +1,14 @@
+# CMake
+build/
+cmake-build-*/
+CMakeUserPresets.json
+
+# CLion
+.idea/
+
+# Compiled objects
+*.o
+*.obj
+*.a
+*.so
+*.dylib
